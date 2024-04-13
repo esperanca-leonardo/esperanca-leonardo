@@ -18,10 +18,16 @@
 - 🐧 Lists of starred repositories focused on customizing Linux environments
 
 ### My Popular Repositories
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/esperanca-leonardo/dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=dotfiles&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/esperanca-leonardo/scripts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=scripts&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
+</a>
+<a href="https://github.com/esperanca-leonardo/hopefood-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=hopefood-api&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
+</a>
+<a href="https://github.com/esperanca-leonardo/microservice-email">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=microservice-email&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
 </a>
 
