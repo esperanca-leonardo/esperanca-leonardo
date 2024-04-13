@@ -6,6 +6,13 @@
 - My configuration files
 - REST API projects
 
+<div>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=esperanca-leonardo&show_icons=true&theme=dark">
+  <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=esperanca-leonardo&layout=compact&theme=dark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=esperanca-leonardo&theme=xcode">
+  <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=esperanca-leonardo&theme=dark" />
+</div>
+
 ## 📚 Technologies I'm Studying
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
