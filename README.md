@@ -5,6 +5,9 @@
 - 🎓 Graduated with a degree in Computer Science
 - 🛠️ Currently working on freelance automation projects for businesses
 - 💬 Feel free to ask me anything, even if it's about "Nothing"!
+### 😄 Fun Facts
+ - I try to replace all graphical applications with alternatives that run in the terminal
+ - I find it torturous to use mouse-focused graphical interfaces like GNOME Shell, KDE Plasma, and Windows
 
 ## 📂 What you'll find here
 - 💻 General scripts
