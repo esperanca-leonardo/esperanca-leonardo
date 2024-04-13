@@ -8,9 +8,8 @@
 
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=esperanca-leonardo&show_icons=true&bg_color=0d1117&text_color=FFFFFF&title_color=39d353&icon_color=39d353&border_color=e4e2e2">
-  
   <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=esperanca-leonardo&layout=compact&bg_color=0d1117&text_color=FFFFFF&title_color=39d353&icon_color=39d353"/>
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=esperanca-leonardo&bg_color=0d1117&point=39d353&line=0e4429&title_color=FFFFFF&area=true&color=FFFFFF&area_color=006d32&hide_title=false">
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=esperanca-leonardo&bg_color=0d1117&point=39d353&line=0e4429&title_color=FFFFFF&area=true&color=FFFFFF&area_color=006d32&hide_title=false&radius=16">
   <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=esperanca-leonardo&theme=dark"/>
 </div>
 
