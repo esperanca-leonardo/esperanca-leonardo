@@ -1,4 +1,10 @@
 # 👋 Hey folks, welcome to my profile!
+- ❤️ Love helping other people solve their technology problems
+
+## About Me
+- 🎓 Graduated with a degree in Computer Science
+- 🛠️ Currently working on freelance automation projects for businesses
+- 💬 Feel free to ask me anything, even if it's about "Nothing"!
 
 ## 📂 What you'll find here
 - General scripts
