@@ -1,7 +1,7 @@
 # 👋 Hey folks, welcome to my profile!
 - ❤️ Love helping other people solve their technology problems
 
-## 👨‍💻 About Me
+## 👨‍💻 About Meub
 - 🎓 Graduated with a degree in Computer Science
 - 💬 Feel free to ask me anything, even if it's about "Nothing"!
 - 🧭 Exploring the Linux world, focusing on TWM environments
@@ -17,9 +17,18 @@
 - ⚙️ My configuration files
 - 🐧 Lists of starred repositories focused on customizing Linux environments
 
+### My Popular Repositories
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=dotfiles&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=microservice-email&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
+</a>
+
+## 
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=esperanca-leonardo&show_icons=true&bg_color=0d1117&text_color=FFFFFF&title_color=39d353&icon_color=39d353&hide_border=true">
-  <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=esperanca-leonardo&layout=compact&bg_color=0d1117&text_color=FFFFFF&title_color=39d353&icon_color=39d353&hide_border=true"/>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=esperanca-leonardo&show_icons=true&bg_color=0d1117&text_color=FFFFFF&title_color=FFFFFF&icon_color=39d353&hide_border=true&rank_icon=percentile&include_all_commits=true&custom_title=GitHub%20Stats&ring_color=39d353">
+  <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=esperanca-leonardo&layout=compact&bg_color=0d1117&text_color=FFFFFF&title_color=FFFFFF&icon_color=39d353&hide_border=true"/>
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=esperanca-leonardo&bg_color=0d1117&point=39d353&line=0e4429&title_color=FFFFFF&area=true&color=FFFFFF&area_color=006d32&hide_title=false&radius=16&hide_border=true">
  <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=esperanca-leonardo&theme=onedark&background=0D1117&ring=0E4429&stroke=FFFFFF&fire=39D353&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=D9D9D9&dates=808080&excludeDaysLabel=FFFFFF&hide_border=true" />
 </div>
