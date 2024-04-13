@@ -10,7 +10,8 @@
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=esperanca-leonardo&show_icons=true&bg_color=0d1117&text_color=FFFFFF&title_color=39d353&icon_color=39d353&border_color=e4e2e2">
   <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=esperanca-leonardo&layout=compact&bg_color=0d1117&text_color=FFFFFF&title_color=39d353&icon_color=39d353"/>
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=esperanca-leonardo&bg_color=0d1117&point=39d353&line=0e4429&title_color=FFFFFF&area=true&color=FFFFFF&area_color=006d32&hide_title=false&radius=16">
-  <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=esperanca-leonardo&theme=dark"/>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=esperanca-leonardo&theme=terafox&background=0D1117&ring=0E4429&stroke=FFFFFF&fire=39D353&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=D9D9D9&dates=808080&excludeDaysLabel=FFFFFF" alt="GitHub Streak" /></a>
+  <!--<img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=esperanca-leonardo&theme=dark"/>-->
 </div>
 
 ## 📚 Technologies I'm Studying
