@@ -1,7 +1,7 @@
 # 👋 Hey folks, welcome to my profile!
 - ❤️ Love helping other people solve their technology problems
 
-## 👨‍💻 About Meub
+## 👨‍💻 About Me
 - 🎓 Graduated with a degree in Computer Science
 - 💬 Feel free to ask me anything, even if it's about "Nothing"!
 - 🧭 Exploring the Linux world, focusing on TWM environments
