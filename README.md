@@ -7,7 +7,7 @@
 - REST API projects
 
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=esperanca-leonardo&show_icons=true&bg_color=0d1117&text_color=FFFFFF&title_color=40c463&icon_color=40c463&border_color=282d34">
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=esperanca-leonardo&show_icons=true&bg_color=0d1117&text_color=FFFFFF&title_color=40c463&icon_color=40c463&border_color=e4e2e2">
   <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=esperanca-leonardo&layout=compact&bg_color=0d1117&text_color=FFFFFF&title_color=40c463&icon_color=40c463&border_color=DDDDDD"/>
   <!--<img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=esperanca-leonardo&theme=xcode">
   <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=esperanca-leonardo&theme=dark"/>-->
