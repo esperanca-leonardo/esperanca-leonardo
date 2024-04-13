@@ -3,17 +3,19 @@
 
 ## 👨‍💻 About Me
 - 🎓 Graduated with a degree in Computer Science
-- 🛠️ Currently working on freelance automation projects for businesses
 - 💬 Feel free to ask me anything, even if it's about "Nothing"!
+- 🧭 Exploring the Linux world, focusing on TWM environments
+- 🛠️ Currently working on freelance automation projects for businesses
+  
 ### 😄 Fun Facts
  - I try to replace all graphical applications with alternatives that run in the terminal
  - I find it torturous to use mouse-focused graphical interfaces like GNOME Shell, KDE Plasma, and Windows
 
 ## 📂 What you'll find here
 - 💻 General scripts
-- 🐧 Lists of starred repositories focused on customizing Linux environments
-- ⚙️ My configuration files
 - 🌐 REST API projects
+- ⚙️ My configuration files
+- 🐧 Lists of starred repositories focused on customizing Linux environments
 
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=esperanca-leonardo&show_icons=true&bg_color=0d1117&text_color=FFFFFF&title_color=39d353&icon_color=39d353&hide_border=true">
