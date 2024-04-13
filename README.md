@@ -19,7 +19,7 @@
 
 ### My Popular Repositories
 <a href="https://github.com/esperanca-leonardo/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=dotfiles&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=dotfiles&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353&description_lines_count=3" />
 </a>
 <a href="https://github.com/esperanca-leonardo/scripts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=scripts&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
