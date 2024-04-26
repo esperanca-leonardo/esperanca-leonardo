@@ -30,6 +30,10 @@
 <a href="https://github.com/esperanca-leonardo/microservice-email">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=microservice-email&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
 </a>
+<a href="https://github.com/esperanca-leonardo/pdf2excel-extractor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=pdf2excel-extractor&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
+</a>
+
 
 ## 
 <div>
