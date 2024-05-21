@@ -21,15 +21,15 @@
 <a href="https://github.com/esperanca-leonardo/dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=dotfiles&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353&description_lines_count=3" />
 </a>
-<a href="https://github.com/esperanca-leonardo/quick-form-fill">
+<!-- <a href="https://github.com/esperanca-leonardo/quick-form-fill">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=quick-form-fill&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
-</a>
+</a> -->
 <a href="https://github.com/esperanca-leonardo/quick-form-fill-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=quick-form-fill-backend&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
-</a>
+<!-- </a>
 <a href="https://github.com/esperanca-leonardo/quick-form-fill-frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=quick-form-fill-frontend&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
-</a>
+</a> -->
 <a href="https://github.com/esperanca-leonardo/late-pay-notify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=late-pay-notify&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
 </a>
