@@ -18,7 +18,7 @@
 - ⚙️ My configuration files
 - 🐧 Lists of starred repositories focused on customizing Linux environments
 
-## ⭐ My Popular Repositories
+## ⭐ Popular Repositories
 <a href="https://github.com/esperanca-leonardo/quick-form-fill-automation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=quick-form-fill-automation&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
 </a>
@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=late-pay-notify&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
 </a>
 
-## 📊  My GitHub Stats 
+## 📊 GitHub Stats 
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=esperanca-leonardo&show_icons=true&bg_color=0d1117&text_color=FFFFFF&title_color=FFFFFF&icon_color=39d353&hide_border=true&rank_icon=percentile&include_all_commits=true&custom_title=GitHub%20Stats&ring_color=39d353">
   <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=esperanca-leonardo&layout=compact&bg_color=0d1117&text_color=FFFFFF&title_color=FFFFFF&icon_color=39d353&hide_border=true"/>
