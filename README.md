@@ -1,5 +1,7 @@
 # 👋 Hey folks, welcome to my profile!
-- ❤️ Love helping other people solve their technology problems
+![](https://komarev.com/ghpvc/?username=esperanca-leonardo&color=39d353&style=for-the-badge&abbreviated=true)
+
+❤️ Love helping other people solve their technology problems
 
 ## 👨‍💻 About Me
 - 🎓 Graduated with a degree in Computer Science
@@ -101,7 +103,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esperanca-leonardo/)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5518997639281)
-![](https://komarev.com/ghpvc/?username=esperanca-leonardo)
 <!--![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
