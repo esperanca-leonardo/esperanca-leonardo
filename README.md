@@ -1,7 +1,5 @@
-# 👋 Hey folks, welcome to my profile!
-![](https://komarev.com/ghpvc/?username=esperanca-leonardo&color=39d353&style=for-the-badge&abbreviated=true)
-
-❤️ Love helping other people solve their technology problems
+# 👋 Hey folks, welcome to my profile! ![](https://komarev.com/ghpvc/?username=esperanca-leonardo&color=39d353&style=for-the-badge&abbreviated=true&label=Visitor+Count)
+- ❤️ Love helping other people solve their technology problems
 
 ## 👨‍💻 About Me
 - 🎓 Graduated with a degree in Computer Science
