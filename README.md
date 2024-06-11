@@ -1,4 +1,5 @@
-# 👋 Hey folks, welcome to my profile! ![](https://komarev.com/ghpvc/?username=esperanca-leonardo&color=39d353&style=for-the-badge&abbreviated=true&label=Visitor+Count)
+# 👋 Hey folks, welcome to my profile! 
+![](https://komarev.com/ghpvc/?username=esperanca-leonardo&color=39d353&style=for-the-badge&abbreviated=true&label=Visitor+Count)
 - ❤️ Love helping other people solve their technology problems
 
 ## 👨‍💻 About Me
@@ -17,13 +18,7 @@
 - ⚙️ My configuration files
 - 🐧 Lists of starred repositories focused on customizing Linux environments
 
-### My Popular Repositories
-<!--<a href="https://github.com/esperanca-leonardo/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=dotfiles&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353&description_lines_count=3" />
-</a>-->
-<!-- <a href="https://github.com/esperanca-leonardo/quick-form-fill">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=quick-form-fill&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
-</a> -->
+## ⭐ My Popular Repositories
 <a href="https://github.com/esperanca-leonardo/quick-form-fill-automation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=quick-form-fill-automation&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
 </a>
@@ -34,8 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=late-pay-notify&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
 </a>
 
-
-## 
+## 📊  My GitHub Stats 
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=esperanca-leonardo&show_icons=true&bg_color=0d1117&text_color=FFFFFF&title_color=FFFFFF&icon_color=39d353&hide_border=true&rank_icon=percentile&include_all_commits=true&custom_title=GitHub%20Stats&ring_color=39d353">
   <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=esperanca-leonardo&layout=compact&bg_color=0d1117&text_color=FFFFFF&title_color=FFFFFF&icon_color=39d353&hide_border=true"/>
@@ -101,13 +95,3 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esperanca-leonardo/)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5518997639281)
-<!--![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
-![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)-->
