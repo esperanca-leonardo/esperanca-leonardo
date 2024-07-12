@@ -1,7 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=100&section=header"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=100&section=header"/>-->
 
 # 👋 Hey folks, welcome to my profile! 
-<!--![](https://komarev.com/ghpvc/?username=esperanca-leonardo&color=39d353&style=for-the-badge&abbreviated=true&label=Visitor+Count)-->
 - ❤️ Love helping other people solve their technology problems
 
 ## 👨‍💻 About Me
@@ -100,4 +99,4 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5518997639281)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=100&section=footer"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=100&section=footer"/>-->
