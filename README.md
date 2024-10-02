@@ -21,15 +21,15 @@
 - 🐧 Lists of starred repositories focused on customizing Linux environments
 
 ## ⭐ Popular Repositories
-<a href="https://github.com/esperanca-leonardo/quick-form-fill-automation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=quick-form-fill-automation&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
-</a>
-<a href="https://github.com/esperanca-leonardo/microservice-email">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=microservice-email&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
-</a>
-<a href="https://github.com/esperanca-leonardo/late-pay-notify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=late-pay-notify&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
-</a>
+### ⚙️ Automation Projects
+<div align="left">
+  <a href="https://github.com/esperanca-leonardo/late-pay-notify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=late-pay-notify&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
+  </a>
+  <a href="https://github.com/esperanca-leonardo/quick-form-fill-automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=quick-form-fill-automation&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
+  </a>
+</div>
 
 ## 📊 GitHub Stats 
 <div>
