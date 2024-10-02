@@ -29,7 +29,7 @@
 - 💻 [Development Environment](#-development-environment)
 - ➕ [About Me](#-about-me-1)
   - 🎮 [Gaming Platforms](#-gaming-platforms)
-  - 🍙 🎵 [Streaming Platforms](#--streaming-platforms)
+  - 🍙 [Streaming Platforms](#--streaming-platforms)
 - 📬 [Connect With Me](#-connect-with-me)
 
 ## ⭐ Popular Repositories
