@@ -31,6 +31,14 @@
   </a>
 </div>
 
+### 🎮 Mini-Games
+<div align="left">
+  <a href="https://github.com/esperanca-leonardo/mini-game-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=sudoku&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
+  </a>
+  <!-- Adicione mais mini-games aqui -->
+</div>
+
 ## 📊 GitHub Stats 
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=esperanca-leonardo&show_icons=true&bg_color=0d1117&text_color=FFFFFF&title_color=FFFFFF&icon_color=39d353&hide_border=true&rank_icon=percentile&include_all_commits=true&custom_title=GitHub%20Stats&ring_color=39d353">
