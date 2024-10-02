@@ -14,11 +14,23 @@
  - I try to replace all graphical applications with alternatives that run in the terminal
  - I find it torturous to use mouse-focused graphical interfaces like GNOME Shell, KDE Plasma, and Windows
 
-## 📂 What you'll find here
-- 💻 General scripts
-- 🌐 REST API projects
-- ⚙️ My configuration files
-- 🐧 Lists of starred repositories focused on customizing Linux environments
+## 📚 Table of Contents
+- 👨‍💻 [About Me](#-about-me)
+- 😄 [Fun Facts](#-fun-facts)
+- 📂 [Table of Contents](#-table-of-contents)
+- ⭐ [Popular Repositories](#-popular-repositories)
+  - ⚙️ [Automation](#-automation)
+  - 🌐 [REST APIs](#-rest-apis)
+  - 🎮 [Terminal Games](#-terminal-games)
+- 📊 [GitHub Stats](#-github-stats)
+- 📚 [Technologies I'm Studying](#-technologies-im-studying)
+- 🧩 [Backend Development](#-backend-development)
+- 📈 [Data Analysis & Automation Tools](#-data-analysis--automation-tools)
+- 💻 [Development Environment](#-development-environment)
+- ➕ [About Me](#-about-me-1)
+  - 🎮 [Gaming Platforms](#-gaming-platforms)
+  - 🍙 🎵 [Streaming Platforms](#--streaming-platforms)
+- 📬 [Connect With Me](#-connect-with-me)
 
 ## ⭐ Popular Repositories
 ### 🕗 Automation 
@@ -101,7 +113,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## ➕ About Me
-### 🎮 Gamming Platforms
+### 🎮 Gaming Platforms
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
