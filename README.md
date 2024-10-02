@@ -57,7 +57,10 @@
 
 ### 🎮 Terminal Games
 <div align="left">
-  <a href="https://github.com/esperanca-leonardo/mini-game-1">
+  <a href="https://github.com/esperanca-leonardo/tic-tac-toe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=tic-tac-toe&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
+  </a>
+  <a href="https://github.com/esperanca-leonardo/sudoku">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=sudoku&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
   </a>
 </div>
