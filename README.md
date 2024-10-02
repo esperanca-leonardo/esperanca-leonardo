@@ -42,7 +42,6 @@
   <a href="https://github.com/Eloin-Centro-Automotivo/toolbox-backend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eloin-Centro-Automotivo&repo=toolbox-backend&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
   </a>
-  <!-- Adicione mais projetos de aplicações REST aqui -->
 </div>
 
 ### 🎮 Terminal Games
@@ -50,11 +49,10 @@
   <a href="https://github.com/esperanca-leonardo/mini-game-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=sudoku&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
   </a>
-  <!-- Adicione mais mini-games aqui -->
 </div>
 
 ## 📊 GitHub Stats 
-<div>
+<div align="left">
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=esperanca-leonardo&show_icons=true&bg_color=0d1117&text_color=FFFFFF&title_color=FFFFFF&icon_color=39d353&hide_border=true&rank_icon=percentile&include_all_commits=true&custom_title=GitHub%20Stats&ring_color=39d353">
   <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=esperanca-leonardo&layout=compact&bg_color=0d1117&text_color=FFFFFF&title_color=FFFFFF&icon_color=39d353&hide_border=true"/>
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=esperanca-leonardo&bg_color=0d1117&point=39d353&line=0e4429&title_color=FFFFFF&area=true&color=FFFFFF&area_color=006d32&hide_title=false&radius=16&hide_border=true">
