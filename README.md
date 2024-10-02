@@ -4,20 +4,9 @@
 ## 👋 Hey folks, welcome to my profile! 
 - ❤️ Love helping other people solve their technology problems
 
-## 👨‍💻 About Me
-- 🎓 Graduated with a degree in Computer Science
-- 💬 Feel free to ask me anything, even if it's about "Nothing"!
-- 🧭 Exploring the Linux world, focusing on TWM environments
-- 🛠️ Currently working on freelance automation projects for businesses
-  
-### 😄 Fun Facts
- - I try to replace all graphical applications with alternatives that run in the terminal
- - I find it torturous to use mouse-focused graphical interfaces like GNOME Shell, KDE Plasma, and Windows
-
 ## 📚 Table of Contents
 - 👨‍💻 [About Me](#-about-me)
 - 😄 [Fun Facts](#-fun-facts)
-- 📂 [Table of Contents](#-table-of-contents)
 - ⭐ [Popular Repositories](#-popular-repositories)
   - ⚙️ [Automation](#-automation)
   - 🌐 [REST APIs](#-rest-apis)
@@ -31,6 +20,16 @@
   - 🎮 [Gaming Platforms](#-gaming-platforms)
   - 🍙 [Streaming Platforms](#--streaming-platforms)
 - 📬 [Connect With Me](#-connect-with-me)
+
+## 👨‍💻 About Me
+- 🎓 Graduated with a degree in Computer Science
+- 💬 Feel free to ask me anything, even if it's about "Nothing"!
+- 🧭 Exploring the Linux world, focusing on TWM environments
+- 🛠️ Currently working on freelance automation projects for businesses
+  
+### 😄 Fun Facts
+ - I try to replace all graphical applications with alternatives that run in the terminal
+ - I find it torturous to use mouse-focused graphical interfaces like GNOME Shell, KDE Plasma, and Windows
 
 ## ⭐ Popular Repositories
 ### 🕗 Automation 
