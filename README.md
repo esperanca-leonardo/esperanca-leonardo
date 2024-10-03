@@ -1,26 +1,29 @@
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=100&section=header"/>-->
 ![](https://komarev.com/ghpvc/?username=esperanca-leonardo&color=39d353&style=for-the-badge&abbreviated=true&label=Visitor+Count)
 
-## 👋 Hey folks, welcome to my profile! 
+## 👋 Hey folks, welcome to my GitHub profile! 
 - ❤️ Love helping other people solve their technology problems
 
 ## 📚 Table of Contents
-- 👨‍💻 [About Me](#-about-me)
-- 😄 [Fun Facts](#-fun-facts)
-- ⭐ [Popular Repositories](#-popular-repositories)
-- 🔥 [Recent Projects](#-recent-projects)
-  - ⚙️ [Automation](#-automation)
-  - 🌐 [REST APIs](#-rest-apis)
-  - 🎮 [Terminal Games](#-terminal-games)
-- 📊 [GitHub Stats](#-github-stats)
-- 📚 [Technologies I'm Studying](#-technologies-im-studying)
-- 🧩 [Backend Development](#-backend-development)
-- 📈 [Data Analysis & Automation Tools](#-data-analysis--automation-tools)
-- 💻 [Development Environment](#-development-environment)
-- ➕ [About Me](#-about-me-1)
-  - 🎮 [Gaming Platforms](#-gaming-platforms)
-  - 🍙 [Streaming Platforms](#--streaming-platforms)
-- 📬 [Connect With Me](#-connect-with-me)
+- [About Me](#-about-me)
+- [Fun Facts](#-fun-facts)
+- [What You'll Find Here](#-what-youll-find-here)
+- [Popular Repositories](#-popular-repositories)
+- [Recent Projects](#-recent-projects)
+  - [Automation](#-automation)
+  - [REST APIs](#-rest-apis)
+  - [Terminal Games](#-terminal-games)
+  - [Advanced Programming Topics](#-advanced-programming-topics)
+  - [Arduino](#-arduino)
+- [GitHub Stats](#-github-stats)
+- [Technologies I'm Studying](#-technologies-im-studying)
+- [Backend Development](#-backend-development)
+- [Data Analysis & Automation Tools](#-data-analysis--automation-tools)
+- [Development Environment](#-development-environment)
+- [About Me](#-about-me-1)
+  - [Gaming Platforms](#-gaming-platforms)
+  - [Streaming Platforms](#--streaming-platforms)
+- [Connect With Me](#-connect-with-me)
 
 ## 👨‍💻 About Me
 - 🎓 Graduated with a degree in Computer Science
@@ -31,6 +34,18 @@
 ### 😄 Fun Facts
  - I try to replace all graphical applications with alternatives that run in the terminal
  - I find it torturous to use mouse-focused graphical interfaces like GNOME Shell, KDE Plasma, and Windows
+
+## 🔍 What You'll Find Here
+Welcome to my GitHub profile! Here's what you can explore:
+- 🌐 **REST APIs**: Robust and scalable API projects for various applications.
+- 🧰 **Dotfiles**: My personal configuration files to customize development environments.
+- ⚙️ **Automations**: Scripts and tools to automate repetitive tasks and workflows.
+- 🎮 **Terminal Games**: Fun and engaging games developed for the terminal.
+- 📜 **Scripts**: A collection of useful scripts for different purposes.
+- 💡 **Advanced Programming Topics**: Projects and explorations into complex programming concepts.
+- 🤖 **Arduino Projects**: Interactive and innovative projects using Arduino.
+
+Feel free to browse through these categories to find projects that interest you!
 
 ## ⭐ Popular Repositories
 ### 🔥 Recent Projects
@@ -71,6 +86,30 @@
   <a href="https://github.com/esperanca-leonardo/tic-tac-toe">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=tic-tac-toe&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
   </a>
+</div>
+
+### 📜 Scripts
+<div align="left">
+  <a href="https://github.com/esperanca-leonardo/general-scripts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=general-scripts&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
+  </a>
+<!--   <p align="left">A collection of useful scripts for various tasks.</p> -->
+</div>
+
+### 💡 Advanced Programming Topics
+<div align="left">
+  <a href="https://github.com/esperanca-leonardo/orm-framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=orm-framework&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
+  </a>
+<!--   <p align="left">Explorations into complex programming concepts.</p> -->
+</div>
+
+### 🤖 Arduino
+<div align="left">
+  <a href="https://github.com/esperanca-leonardo/arduino">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=arduino&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
+  </a>
+<!--   <p align="left">Interactive projects using Arduino.</p> -->
 </div>
 
 ## 📊 GitHub Stats 
