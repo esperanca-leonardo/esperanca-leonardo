@@ -8,6 +8,7 @@
 - 👨‍💻 [About Me](#-about-me)
 - 😄 [Fun Facts](#-fun-facts)
 - ⭐ [Popular Repositories](#-popular-repositories)
+- 🔥 [Recent Projects](#-recent-projects)
   - ⚙️ [Automation](#-automation)
   - 🌐 [REST APIs](#-rest-apis)
   - 🎮 [Terminal Games](#-terminal-games)
@@ -32,6 +33,13 @@
  - I find it torturous to use mouse-focused graphical interfaces like GNOME Shell, KDE Plasma, and Windows
 
 ## ⭐ Popular Repositories
+### 🔥 Recent Projects
+<div align="left">
+  <a href="https://github.com/Eloin-Centro-Automotivo/toolbox-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eloin-Centro-Automotivo&repo=toolbox-backend&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
+  </a>
+</div>
+
 ### 🕗 Automation 
 <div align="left">
   <a href="https://github.com/esperanca-leonardo/late-pay-notify">
