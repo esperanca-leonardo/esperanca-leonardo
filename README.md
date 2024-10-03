@@ -65,7 +65,6 @@ Feel free to browse through these categories to find projects that interest you!
     <a href="https://github.com/esperanca-leonardo/orm-framework">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=orm-framework&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
   </a>
-<!--   <p align="left">Explorations into complex programming concepts.</p> -->
 </div>
 
 ### 🤖 Arduino
@@ -73,7 +72,6 @@ Feel free to browse through these categories to find projects that interest you!
   <a href="https://github.com/esperanca-leonardo/arduino">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=arduino&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
   </a>
-<!--   <p align="left">Interactive projects using Arduino.</p> -->
 </div>
 
 ### 🕗 Automation 
@@ -94,7 +92,6 @@ Feel free to browse through these categories to find projects that interest you!
   <a href="https://github.com/esperanca-leonardo/dotfiles">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=dotfiles&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
   </a>
-<!--   <p align="left">My personal configuration files to customize development environments.</p> -->
 </div>
 
 ### 🌐 REST APIs
@@ -102,12 +99,12 @@ Feel free to browse through these categories to find projects that interest you!
   <a href="https://github.com/esperanca-leonardo/microservice-email">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=microservice-email&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
   </a>
-<!--   <p align="left">Microservice for sending emails.</p> -->
-  
   <a href="https://github.com/esperanca-leonardo/quick-form-fill-backend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=quick-form-fill-backend&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
   </a>
-<!--   <p align="left">Backend for the form automation project.</p> -->
+  <a href="https://github.com/Eloin-Centro-Automotivo/toolbox-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eloin-Centro-Automotivo&repo=toolbox-backend&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
+  </a>
 </div>
 
 ### 📜 Scripts
@@ -115,7 +112,6 @@ Feel free to browse through these categories to find projects that interest you!
   <a href="https://github.com/esperanca-leonardo/scripts">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=scripts&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
   </a>
-<!--   <p align="left">A collection of useful scripts for various tasks.</p> -->
 </div>
 
 ### 🎮 Terminal Games
@@ -123,12 +119,9 @@ Feel free to browse through these categories to find projects that interest you!
   <a href="https://github.com/esperanca-leonardo/sudoku">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=sudoku&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
   </a>
-<!--   <p align="left">A Sudoku game developed for the terminal.</p> -->
-  
   <a href="https://github.com/esperanca-leonardo/tic-tac-toe">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=tic-tac-toe&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
   </a>
-<!--   <p align="left">A Tic-Tac-Toe game developed for the terminal.</p> -->
 </div>
 
 ## 📊 GitHub Stats 
