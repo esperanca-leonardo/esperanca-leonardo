@@ -41,7 +41,7 @@
 Welcome to my GitHub profile! Here's what you can explore:
 - 💡 **Advanced Programming Topics**: Projects and explorations into complex programming concepts.
 - 🤖 **Arduino Projects**: Interactive and innovative projects using Arduino.
-- ⚙️ **Automations**: Scripts and tools to automate repetitive tasks and workflows.
+- 🕗 **Automations**: Scripts and tools to automate repetitive tasks and workflows.
 - 🧰 **Dotfiles**: My personal configuration files to customize development environments.
 - 🌐 **REST APIs**: Robust and scalable API projects for various applications.
 - 📜 **Scripts**: A collection of useful scripts for different purposes.
@@ -89,7 +89,7 @@ Feel free to browse through these categories to find projects that interest you!
 <!--   <p align="left">Automates web form filling processes.</p> -->
 </div>
 
-### ⚙ Dotfiles
+### 🧰 Dotfiles
 <div align="left">
   <a href="https://github.com/esperanca-leonardo/dotfiles">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=dotfiles&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
