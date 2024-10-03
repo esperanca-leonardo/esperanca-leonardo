@@ -90,8 +90,8 @@ Feel free to browse through these categories to find projects that interest you!
 
 ### 📜 Scripts
 <div align="left">
-  <a href="https://github.com/esperanca-leonardo/general-scripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=general-scripts&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
+  <a href="https://github.com/esperanca-leonardo/scripts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=scripts&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
   </a>
 <!--   <p align="left">A collection of useful scripts for various tasks.</p> -->
 </div>
