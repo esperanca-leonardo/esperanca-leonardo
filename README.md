@@ -9,12 +9,13 @@
 - [Fun Facts](#-fun-facts)
 - [What You'll Find Here](#-what-youll-find-here)
 - [Popular Repositories](#-popular-repositories)
-- [Recent Projects](#-recent-projects)
-  - [Automation](#-automation)
-  - [REST APIs](#-rest-apis)
-  - [Terminal Games](#-terminal-games)
-  - [Advanced Programming Topics](#-advanced-programming-topics)
-  - [Arduino](#-arduino)
+  - [Recent Projects](#-recent-projects)
+  - [Advanced Programming Topics](#advanced-programming-topics)
+  - [Arduino](#arduino)
+  - [Automation](#automation)
+  - [Dotfiles](#dotfiles)
+  - [REST APIs](#rest-apis)
+  - [Scripts](#scripts)
 - [GitHub Stats](#-github-stats)
 - [Technologies I'm Studying](#-technologies-im-studying)
 - [Backend Development](#-backend-development)
@@ -37,13 +38,13 @@
 
 ## 🔍 What You'll Find Here
 Welcome to my GitHub profile! Here's what you can explore:
-- 🌐 **REST APIs**: Robust and scalable API projects for various applications.
-- 🧰 **Dotfiles**: My personal configuration files to customize development environments.
-- ⚙️ **Automations**: Scripts and tools to automate repetitive tasks and workflows.
-- 🎮 **Terminal Games**: Fun and engaging games developed for the terminal.
-- 📜 **Scripts**: A collection of useful scripts for different purposes.
 - 💡 **Advanced Programming Topics**: Projects and explorations into complex programming concepts.
 - 🤖 **Arduino Projects**: Interactive and innovative projects using Arduino.
+- ⚙️ **Automations**: Scripts and tools to automate repetitive tasks and workflows.
+- 🧰 **Dotfiles**: My personal configuration files to customize development environments.
+- 🌐 **REST APIs**: Robust and scalable API projects for various applications.
+- 📜 **Scripts**: A collection of useful scripts for different purposes.
+- 🎮 **Terminal Games**: Fun and engaging games developed for the terminal.
 
 Feel free to browse through these categories to find projects that interest you!
 
@@ -53,55 +54,6 @@ Feel free to browse through these categories to find projects that interest you!
   <a href="https://github.com/Eloin-Centro-Automotivo/toolbox-backend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eloin-Centro-Automotivo&repo=toolbox-backend&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
   </a>
-</div>
-
-### 🕗 Automation 
-<div align="left">
-  <a href="https://github.com/esperanca-leonardo/late-pay-notify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=late-pay-notify&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
-  </a>
-  <a href="https://github.com/esperanca-leonardo/quick-form-fill-automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=quick-form-fill-automation&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
-  </a>
-</div>
-
-### 🌐 REST APIs
-<div align="left">
-  <a href="https://github.com/esperanca-leonardo/microservice-email">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=microservice-email&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
-  </a>
-  <a href="https://github.com/esperanca-leonardo/quick-form-fill-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=quick-form-fill-backend&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
-  </a>
-  <a href="https://github.com/Eloin-Centro-Automotivo/toolbox-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eloin-Centro-Automotivo&repo=toolbox-backend&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
-  </a>
-</div>
-
-### 🎮 Terminal Games
-<div align="left">
-  <a href="https://github.com/esperanca-leonardo/sudoku">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=sudoku&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
-  </a>
-  <a href="https://github.com/esperanca-leonardo/tic-tac-toe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=tic-tac-toe&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
-  </a>
-</div>
-
-### 📜 Scripts
-<div align="left">
-  <a href="https://github.com/esperanca-leonardo/scripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=scripts&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
-  </a>
-<!--   <p align="left">A collection of useful scripts for various tasks.</p> -->
-</div>
-
-### ⚙ Dotfiles
-<div align="left">
-  <a href="https://github.com/esperanca-leonardo/dotfiles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=dotfiles&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
-  </a>
-<!--   <p align="left">A collection of useful scripts for various tasks.</p> -->
 </div>
 
 ### 💡 Advanced Programming Topics
@@ -118,6 +70,61 @@ Feel free to browse through these categories to find projects that interest you!
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=arduino&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
   </a>
 <!--   <p align="left">Interactive projects using Arduino.</p> -->
+</div>
+
+### 🕗 Automation 
+<div align="left">
+  <a href="https://github.com/esperanca-leonardo/late-pay-notify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=late-pay-notify&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
+  </a>
+<!--   <p align="left">Automates notifications for late payments.</p> -->
+  
+  <a href="https://github.com/esperanca-leonardo/quick-form-fill-automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=quick-form-fill-automation&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
+  </a>
+<!--   <p align="left">Automates web form filling processes.</p> -->
+</div>
+
+### ⚙ Dotfiles
+<div align="left">
+  <a href="https://github.com/esperanca-leonardo/dotfiles">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=dotfiles&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
+  </a>
+<!--   <p align="left">My personal configuration files to customize development environments.</p> -->
+</div>
+
+### 🌐 REST APIs
+<div align="left">
+  <a href="https://github.com/esperanca-leonardo/microservice-email">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=microservice-email&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
+  </a>
+<!--   <p align="left">Microservice for sending emails.</p> -->
+  
+  <a href="https://github.com/esperanca-leonardo/quick-form-fill-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=quick-form-fill-backend&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
+  </a>
+<!--   <p align="left">Backend for the form automation project.</p> -->
+</div>
+
+### 📜 Scripts
+<div align="left">
+  <a href="https://github.com/esperanca-leonardo/scripts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=scripts&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
+  </a>
+<!--   <p align="left">A collection of useful scripts for various tasks.</p> -->
+</div>
+
+### 🎮 Terminal Games
+<div align="left">
+  <a href="https://github.com/esperanca-leonardo/sudoku">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=sudoku&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
+  </a>
+<!--   <p align="left">A Sudoku game developed for the terminal.</p> -->
+  
+  <a href="https://github.com/esperanca-leonardo/tic-tac-toe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=tic-tac-toe&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
+  </a>
+<!--   <p align="left">A Tic-Tac-Toe game developed for the terminal.</p> -->
 </div>
 
 ## 📊 GitHub Stats 
