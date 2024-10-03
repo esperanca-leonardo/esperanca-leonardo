@@ -16,6 +16,7 @@
   - [Dotfiles](#-dotfiles)
   - [REST APIs](#-rest-apis)
   - [Scripts](#-scripts)
+  - [Terminal Games](#-terminal-games)
 - [GitHub Stats](#-github-stats)
 - [Technologies I'm Studying](#-technologies-im-studying)
 - [Backend Development](#-backend-development)
