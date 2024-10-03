@@ -81,12 +81,12 @@ Feel free to browse through these categories to find projects that interest you!
   <a href="https://github.com/esperanca-leonardo/late-pay-notify">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=late-pay-notify&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
   </a>
-<!--   <p align="left">Automates notifications for late payments.</p> -->
-  
+    <a href="https://github.com/Eloin-Centro-Automotivo/product-scraper">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eloin-Centro-Automotivo&repo=product-scraper&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
+  </a>
   <a href="https://github.com/esperanca-leonardo/quick-form-fill-automation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=quick-form-fill-automation&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=59666c&icon_color=39d353" />
   </a>
-<!--   <p align="left">Automates web form filling processes.</p> -->
 </div>
 
 ### 🧰 Dotfiles
