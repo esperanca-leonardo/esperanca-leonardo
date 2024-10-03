@@ -96,6 +96,14 @@ Feel free to browse through these categories to find projects that interest you!
 <!--   <p align="left">A collection of useful scripts for various tasks.</p> -->
 </div>
 
+### ⚙ Dotfiles
+<div align="left">
+  <a href="https://github.com/esperanca-leonardo/dotfiles">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esperanca-leonardo&repo=dotfiles&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=39d353" />
+  </a>
+<!--   <p align="left">A collection of useful scripts for various tasks.</p> -->
+</div>
+
 ### 💡 Advanced Programming Topics
 <div align="left">
   <a href="https://github.com/esperanca-leonardo/orm-framework">
